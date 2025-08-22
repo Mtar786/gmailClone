@@ -1,6 +1,5 @@
 # Gmail Clone
 
-
 <img width="2550" height="732" alt="image" src="https://github.com/user-attachments/assets/66297939-40b0-43e9-acbe-01f5fdc84600" />
 
 A modern, responsive Gmail clone built with React JS and Material-UI. This application replicates the core functionality and design of Gmail with a clean, intuitive interface.
